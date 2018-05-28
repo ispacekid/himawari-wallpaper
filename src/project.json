@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "每 10 分钟自动更新来自向日葵八号卫星（Himawari-8）的东亚地区真彩色云图并设置为桌面壁纸。「真彩色云图」为向日葵八号卫星 3 个可见光频道资料叠加所得的影像，由于类似肉眼所见，因此称为「真彩色云图」。\n\nAutomatically get latest satellite image of East Asia from Himawari-8 and set as wallpaper every 10 minutes. Data in visible bands of red (0.64µm), green (0.51µm) and blue (0.47µm) satellite are combined and Rayleigh scattering modified to produce an RGB product called true-color image, so named because its color is similar to what may appear to the naked eye.",
+	"file" : "wallpaper.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Technology" ],
+	"title" : "Himawari Wallpaper",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : "1394885409"
+}
