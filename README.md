@@ -6,9 +6,13 @@ Wallpaper Engine Steam 创意工坊作品。每 10 分钟自动更新来自向�
 
 Wallpaper for Wallpaper Engine. Automatically get latest satellite image of East Asia from Himawari-8 and set as wallpaper every 10 minutes. Data in visible bands of red (0.64µm), green (0.51µm) and blue (0.47µm) satellite are combined and Rayleigh scattering modified to produce an RGB product called true-color image, so named because its color is similar to what may appear to the naked eye.
 
+## 预览 Preview
+
+* GitHub Pages: [https://ispacekid.github.io/himawari-wallpaper/](https://ispacekid.github.io/himawari-wallpaper/)
+
 ## 下载 Download
 
-* [https://steamcommunity.com/sharedfiles/filedetails/?id=1394885409](https://steamcommunity.com/sharedfiles/filedetails/?id=1394885409)
+* Steam Community:  [https://steamcommunity.com/sharedfiles/filedetails/?id=1394885409](https://steamcommunity.com/sharedfiles/filedetails/?id=1394885409)
 
 ## 协议 License
 
