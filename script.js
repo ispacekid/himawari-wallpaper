@@ -22,7 +22,7 @@ $(document).ready(function() {
       mm = (parseInt(mm) - 10).toString();
       console.log("Skipped 10:40 AM. Downloading image at " + hh + ":" + mm + ".");
     };
-    // Get image from CWB and set as background image
+    // Fetch image from CWB and set as background image
     var url = "https://www.cwb.gov.tw/V7/observe/satellite/Data/ts1p/ts1p-" + yyyy + "-" + MM + "-" + dd + "-" + hh + "-" + mm + ".jpg";
     $("<img/>").attr("src", url).on("load", function() {
       $(this).remove();
