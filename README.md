@@ -1,5 +1,9 @@
 # Himawari Wallpaper
 
+**注意**：本项目已不再维护，可以移步作者个人主页 [https://spacekid.me/](https://spacekid.me/) 了解我的其他项目。谢谢关注！
+
+**Notice**: This project is no longer maintained. Check my homepage [https://spacekid.me/](https://spacekid.me/) for more projects.
+
 ## 介绍 Introduction
 
 Wallpaper Engine Steam 创意工坊作品。每 10 分钟自动更新来自向日葵八号卫星（Himawari-8）的东亚地区真彩色云图并设置为桌面壁纸。「真彩色云图」为向日葵八号卫星 3 个可见光频道资料叠加所得的影像，由于类似肉眼所见，因此称为「真彩色云图」。
